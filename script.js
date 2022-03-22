@@ -46,16 +46,16 @@ const interval = setInterval(() => {
 }, 100);
 
 
-
  //stopping and picking one to land on
  //clearInterval will stop the on/off 
- setTimeout(() => {
+setTimeout(() => {
     clearInterval(interval)
-    setTimeout(() => {
         const randomTag = pickRandomTag()
-        highlightTag(randomTag)  
-    }, 100);
-}, times * 100);
+        highlightTag(randomTag) 
+}, 100*times);
+
+
+
 
 }
 
