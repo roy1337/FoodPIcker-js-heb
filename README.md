@@ -3,5 +3,5 @@
 Can't decide what to order for dinner?
 use FoodPicker.
 
-you can access the project here:
+You can access and enjoy the app yourself at:
 https://foodpick.netlify.app/
