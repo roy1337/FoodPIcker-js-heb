@@ -1,4 +1,4 @@
-# FoodPIckerJS_Heb
+# FoodPickerJS_Heb
 
 Can't decide what to order for dinner?
 use FoodPicker.
